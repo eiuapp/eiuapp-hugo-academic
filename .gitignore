@@ -1,0 +1,6 @@
+.*
+!.gitignore
+public/
+themes/
+resources/_gen/
+/TODO.md
