@@ -22,9 +22,3 @@ linktitle = "系统"
 +++
 
 
-### [Linux 学习笔记](https://eiuapp.github.io/linux-handbook/)
-
-Linux Mint是基于Debian和Ubuntu的 Linux 发行版，对用户友好而功能强大，非常适合作为日常主力操作系统使用。这份学习笔记, 记录Linux Mint (Linux Mint 19 Cinnamon 版本) 的学习过程和日常使用。
-
-
-

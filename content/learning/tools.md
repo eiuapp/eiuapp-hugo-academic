@@ -20,16 +20,3 @@ linktitle = "工具"
 # image = "headers/getting-started.png"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
-
-
-### [Hugo学习笔记](https://eiuapp.github.io/hugo-handbook/)
-
-Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。
-
-Hugo以速度快著称，号称是世界上最快的网站生成框架。
-
-### [Git与Github学习笔记](https://eiuapp.github.io/github-handbook/)
-
-Git是目前业界最流行的分布式版本控制工具。
-
-备注： gitbook 格式，还没有转为 hugo 格式。
