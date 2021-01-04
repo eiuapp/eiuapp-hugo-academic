@@ -18,10 +18,10 @@
 #   url = "/publication/"
 #   weight = 3
 
-# [[main]]
-#   name = "技术博客"
-#   url = "/post/"
-#   weight = 4
+[[main]]
+  name = "技术博客"
+  url = "/post/"
+  weight = 4
 
 # [[main]]
 #   name = "开源项目"
@@ -33,10 +33,10 @@
 #   url = "/learning/"
 #   weight = 6
 
-# [[main]]
-#   name = "内容标签"
-#   url = "#tags"
-#   weight = 7
+[[main]]
+  name = "内容标签"
+  url = "#tags"
+  weight = 7
 
 # [[main]]
 #   name = "生活"

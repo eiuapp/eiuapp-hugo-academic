@@ -30,6 +30,7 @@ script:
   - mkdir -p themes
   - git clone https://github.com/eiuapp/hugo-academic themes/academic
   - hugo
+  - echo "www.eiu.app" > public/CNAME
 
 deploy:
   provider: pages # 重要，指定这是一份github pages的部署配置

@@ -3,7 +3,7 @@
 date = 2018-06-30T00:00:00
 
 # Project title.
-title = "MY SON"
+title = "名言"
 
 # Project summary to display on homepage.
 summary = "生活的乐趣取决于生活都本身，而不是取决于工作或地点。"
