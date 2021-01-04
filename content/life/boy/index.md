@@ -6,14 +6,14 @@ date = 2018-06-30T00:00:00
 title = "MY SON"
 
 # Project summary to display on homepage.
-summary = "无论我在哪里，总会在某个瞬间想到你，my boy."
+summary = "生活的乐趣取决于生活都本身，而不是取决于工作或地点。"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "projects/sofamesh.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["kids", "life"]
+tags = ["life"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-无论我在哪里，总会在某个瞬间想到你，my boy。
+生活的乐趣取决于生活都本身，而不是取决于工作或地点。——爱默生
+
+生活将在种种友谊之中得到充实。爱他人，并为他人所爱，这就是生存的最大乐趣。——威·史密斯

@@ -18,10 +18,10 @@
 #   url = "/publication/"
 #   weight = 3
 
-[[main]]
-  name = "技术博客"
-  url = "/post/"
-  weight = 4
+# [[main]]
+#   name = "技术博客"
+#   url = "/post/"
+#   weight = 4
 
 # [[main]]
 #   name = "开源项目"

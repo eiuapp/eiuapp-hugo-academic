@@ -15,4 +15,4 @@ caption = ""
 
 +++
 
-https://eiu.app/wiki/
+https://eiu.app/wiki/sitemap.html
