@@ -20,9 +20,9 @@ email = "tomtsang1987@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-    "期货, 证券",
-    "开发, 运维, 安全",
-    "微服务/Micro Service",
+    "期货, 证券", "数字货币",
+    "交易, 量化",
+    "开发, 运维",
     "云原生/Cloud Native"
 ]
 
@@ -86,6 +86,6 @@ interests = [
 
 个人理念：(希望)坚守一线，(力求)绝不脱节，上可海阔天空谈架构(常有)，下可埋头苦干码代码(难得)。
 
-升级中...
+功力升级中...
 
 （欢迎使用 [RSS订阅](/index.xml) 本站内容更新）
